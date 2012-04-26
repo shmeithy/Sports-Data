@@ -1,0 +1,18 @@
+C:\Users\Keith\AppData\Local\Temporary Projects\ShowMeTheData\bin\Release\ShowMeTheData.exe
+C:\Users\Keith\AppData\Local\Temporary Projects\ShowMeTheData\bin\Release\ShowMeTheData.pdb
+C:\Users\Keith\AppData\Local\Temporary Projects\ShowMeTheData\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Keith\AppData\Local\Temporary Projects\ShowMeTheData\obj\x86\Release\ShowMeTheData.Properties.Resources.resources
+C:\Users\Keith\AppData\Local\Temporary Projects\ShowMeTheData\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Keith\AppData\Local\Temporary Projects\ShowMeTheData\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Keith\AppData\Local\Temporary Projects\ShowMeTheData\obj\x86\Release\ShowMeTheData.exe
+C:\Users\Keith\AppData\Local\Temporary Projects\ShowMeTheData\obj\x86\Release\ShowMeTheData.pdb
+C:\Users\Keith\AppData\Local\Temporary Projects\ShowMeTheData\obj\x86\Release\ShowMeTheData.Form1.resources
+C:\Users\Keith\Documents\Visual Studio 2010\Projects\ShowMeTheData\ShowMeTheData\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Keith\Documents\Visual Studio 2010\Projects\ShowMeTheData\ShowMeTheData\obj\x86\Release\ShowMeTheData.Form1.resources
+C:\Users\Keith\Documents\Visual Studio 2010\Projects\ShowMeTheData\ShowMeTheData\obj\x86\Release\ShowMeTheData.Properties.Resources.resources
+C:\Users\Keith\Documents\Visual Studio 2010\Projects\ShowMeTheData\ShowMeTheData\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Keith\Documents\Visual Studio 2010\Projects\ShowMeTheData\ShowMeTheData\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Keith\Documents\Visual Studio 2010\Projects\ShowMeTheData\ShowMeTheData\obj\x86\Release\ShowMeTheData.pdb
+C:\Users\Keith\Documents\Visual Studio 2010\Projects\ShowMeTheData\ShowMeTheData\bin\Release\ShowMeTheData.exe
+C:\Users\Keith\Documents\Visual Studio 2010\Projects\ShowMeTheData\ShowMeTheData\bin\Release\ShowMeTheData.pdb
+C:\Users\Keith\Documents\Visual Studio 2010\Projects\ShowMeTheData\ShowMeTheData\obj\x86\Release\ShowMeTheData.exe

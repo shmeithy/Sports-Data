@@ -1,0 +1,18 @@
+C:\Users\Keith\AppData\Local\Temporary Projects\ShowMeTheData\bin\Debug\ShowMeTheData.exe
+C:\Users\Keith\AppData\Local\Temporary Projects\ShowMeTheData\bin\Debug\ShowMeTheData.pdb
+C:\Users\Keith\AppData\Local\Temporary Projects\ShowMeTheData\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Keith\AppData\Local\Temporary Projects\ShowMeTheData\obj\x86\Debug\ShowMeTheData.Properties.Resources.resources
+C:\Users\Keith\AppData\Local\Temporary Projects\ShowMeTheData\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Keith\AppData\Local\Temporary Projects\ShowMeTheData\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Keith\AppData\Local\Temporary Projects\ShowMeTheData\obj\x86\Debug\ShowMeTheData.exe
+C:\Users\Keith\AppData\Local\Temporary Projects\ShowMeTheData\obj\x86\Debug\ShowMeTheData.pdb
+C:\Users\Keith\AppData\Local\Temporary Projects\ShowMeTheData\obj\x86\Debug\ShowMeTheData.Form1.resources
+C:\Users\Keith\Documents\Visual Studio 2010\Projects\ShowMeTheData\ShowMeTheData\obj\x86\Debug\ShowMeTheData.exe
+C:\Users\Keith\Documents\Visual Studio 2010\Projects\ShowMeTheData\ShowMeTheData\obj\x86\Debug\ShowMeTheData.pdb
+C:\Users\Keith\Documents\Visual Studio 2010\Projects\ShowMeTheData\ShowMeTheData\bin\Debug\ShowMeTheData.exe
+C:\Users\Keith\Documents\Visual Studio 2010\Projects\ShowMeTheData\ShowMeTheData\bin\Debug\ShowMeTheData.pdb
+C:\Users\Keith\Documents\Visual Studio 2010\Projects\ShowMeTheData\ShowMeTheData\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Keith\Documents\Visual Studio 2010\Projects\ShowMeTheData\ShowMeTheData\obj\x86\Debug\ShowMeTheData.Form1.resources
+C:\Users\Keith\Documents\Visual Studio 2010\Projects\ShowMeTheData\ShowMeTheData\obj\x86\Debug\ShowMeTheData.Properties.Resources.resources
+C:\Users\Keith\Documents\Visual Studio 2010\Projects\ShowMeTheData\ShowMeTheData\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Keith\Documents\Visual Studio 2010\Projects\ShowMeTheData\ShowMeTheData\obj\x86\Debug\GenerateResource.write.1.tlog
